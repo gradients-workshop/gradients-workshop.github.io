@@ -26,10 +26,10 @@
   margin: 0 auto;
 }
 .menu a, .menu a:visited {
-  color: #330066;
+  color: #a0522d;
 }
 .menu a:hover, .menu a:target {
-  color: #330066;
+  color: #a0522d;
 }
 .menu-items {
   display: inline-block;
@@ -43,7 +43,7 @@
   margin-left: 10px;
 }
 a.sitename, a:visited.sitename {
-  color: #330066;
+  color: #a0522d;
 }
 .menu-items li {
   display: inline-block;

@@ -24,7 +24,7 @@ h1 {
   font-weight: 500;
   font-size: 24px;
   line-height: 46px;
-  color: #999999;
+  color: #9d3314;
 }
 h2 {
   font-weight: 400;
@@ -66,7 +66,7 @@ a:link,a:active {
 }
 a:visited, a:hover {
   font-weight: 400;
-  color: #330066;
+  color: #9d3314;
   text-decoration: underline;
 }
 
@@ -77,7 +77,7 @@ a:visited, a:hover {
 
 .content {
   position: relative;
-  background: #330066 url("image_start-edit.png") no-repeat center top fixed;
+  background: #9d3314 url("image_start-edit.png") no-repeat center top fixed;
   background-size: initial;
   min-height: 480px;
   max-height: 480px;
@@ -129,21 +129,21 @@ a:visited, a:hover {
 
 /* SPECIAL */
 .onblue:link {
-  color: #333333;
+  color: #9d3314;
   font-weight: 400;
 }
 .onblue:visited, .onblue:hover {
-  color: #333333;
+  color: #9d3314;
   font-weight: 400;
   text-decoration: underline;
 }
 .summary {
-  color: #333333;
+  color: #9d3314;
   margin-top: 40px;
   margin-bottom: 60px;
 }
 .summary2 {
-  color: #333333;
+  color: #9d3314;
   margin-top: 20px;
   margin-bottom: 60px;
   font-size: 14px;
@@ -156,7 +156,7 @@ a:visited, a:hover {
   font-family: 'Hind', sans-serif;
   color: #cccccc;
   background-color: transparent;
-  border: 2px solid #f6f1ed;
+  border: 2px solid #9d3314;
   border-radius: 3px;
   text-transform: capitalize;
   text-align: left;
@@ -202,7 +202,7 @@ a:visited, a:hover {
   font-family: 'Hind', sans-serif;
   position: absolute;
   top: 370;
-  color: #660000;
+  color: #9d3314;
   background: rgba(1,1,1, 0);
   font-weight: 300;
   padding: 8px 12px;

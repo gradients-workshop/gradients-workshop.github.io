@@ -104,7 +104,7 @@ a:visited, a:hover {
   text-align: left;
 }
 .some-related-articles {
-  color: #9d3314;
+  color: #000000;
 }
 .some-related-articles h1 {
   color: #9d3314;
@@ -112,7 +112,7 @@ a:visited, a:hover {
   text-transform: uppercase;
 }
 .some-related-articles p {
-  color: #9d3314;
+  color: #000000;
   margin-top: 10px;
   margin-bottom: 20px;
 }

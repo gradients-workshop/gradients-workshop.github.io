@@ -61,12 +61,12 @@ li{
 }
 a:link,a:active {
   font-weight: 400;
-  color: #9d3314;
+  color: #000000;
   text-decoration: none;
 }
 a:visited, a:hover {
   font-weight: 400;
-  color: #9d3314;
+  color: #000000;
   text-decoration: underline;
 }
 

@@ -99,7 +99,7 @@ a:visited, a:hover {
   background-size: initial;
   min-height: 60px;
   min-height: 60px;
-  background: #9d3314;
+  background: #9d3314 no-repeat center top fixed;
  }
 .description, .some-related-articles {
   width: 90%;

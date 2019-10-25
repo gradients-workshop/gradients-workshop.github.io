@@ -67,7 +67,7 @@ a:link,a:active {
 }
 a:visited, a:hover {
   font-weight: 400;
-  color: #000000;
+  color: #ffffff;
   text-decoration: underline;
 }
 
@@ -116,7 +116,7 @@ a:visited, a:hover {
   color: #000000;
 }
 .some-related-articles h1 {
-  color: #9d3314;
+  color: #ffffff;
   margin-top: 60px;
   text-transform: uppercase;
 }

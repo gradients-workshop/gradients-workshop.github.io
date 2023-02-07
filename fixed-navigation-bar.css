@@ -6,7 +6,7 @@
   z-index: 9999;
   width: 100%;
   height: 70px;
-  background-color: #94aac4;
+  background-color: #2cccd3;
 }
 
 /* The element at the top of the page right after the fixed navigation bar
@@ -43,7 +43,7 @@
   margin-left: 10px;
 }
 a.sitename, a:visited.sitename {
-  color: #330066;
+  color: #470a68;
 }
 .menu-items li {
   display: inline-block;
@@ -64,7 +64,7 @@ a.sitename, a:visited.sitename {
   background-color: transparent;
   background-repeat: no-repeat;
   background-position: center left;
-  color: #330066;
+  color: #470a68;
 }
 .show {
   background-image: url(assets/down-arrow-icon.png);

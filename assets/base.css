@@ -81,8 +81,8 @@ a:visited, a:hover {
   position: relative;
   background: #ffffff url("image_start-edit.png") no-repeat center top fixed;
   background-size: initial;
-  min-height: 480px;
-  max-height: 480px;
+  min-height: 380px;
+  max-height: 380px;
  }
  .content_contact {
   position: relative;
@@ -100,7 +100,7 @@ a:visited, a:hover {
   background-size: initial;
   min-height: 60px;
   min-height: 60px;
-  background: #3e81c7 no-repeat center top fixed;
+  background: #2cccd3 no-repeat center top fixed;
  }
 .description, .some-related-articles {
   width: 90%;
@@ -108,7 +108,7 @@ a:visited, a:hover {
   margin: 0 auto;
 }
 .description {
-  padding-top: 100px;
+  padding-top: 50px;
   min-height: 250px;
   text-align: left;
 }
@@ -116,7 +116,7 @@ a:visited, a:hover {
   color: #000000;
 }
 .some-related-articles h1 {
-  color: #3e81c7;
+  color: #470a68;
   margin-top: 60px;
   text-transform: uppercase;
 }

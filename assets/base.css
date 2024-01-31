@@ -62,19 +62,19 @@ li{
 }
 a:link,a:active {
   font-weight: 400;
-  color: #2cccd3;
+  color: #3288bd;
   text-decoration: underline;
 }
 a:visited, a:hover {
   font-weight: 400;
-  color: #2cccd3;
+  color: #3288bd;
   text-decoration: underline;
 }
 
 /* LAYOUT */
 .fixed-nav-bar {
   box-shadow: 0px 0px 3px 0px rgba(50, 50, 50, 0.6);
-  background: #2cccd3;
+  background: #3288bd;
 }
 
 .content {
@@ -100,7 +100,7 @@ a:visited, a:hover {
   background-size: initial;
   min-height: 60px;
   min-height: 60px;
-  background: #2cccd3 no-repeat center top fixed;
+  background: #3288bd no-repeat center top fixed;
  }
 .description, .some-related-articles {
   width: 90%;
@@ -116,7 +116,7 @@ a:visited, a:hover {
   color: #000000;
 }
 .some-related-articles h1 {
-  color: #470a68;
+  color: #f46d43;
   margin-top: 60px;
   text-transform: uppercase;
 }
@@ -127,22 +127,22 @@ a:visited, a:hover {
 }
 
 .some-related-articles h2 a:link, .some-related-articles h2 a:visited  {
-  color: #2cccd3;
+  color: #3288bd;
   transition: color 0.1s ease;
 }
 .some-related-articles h2 a:hover {
-  color: #2cccd3;
+  color: #3288bd;
   transition: color 0.3s ease;
 }
 
 
 /* SPECIAL */
 .onblue:link {
-  color: #2cccd3;
+  color: #3288bd;
   font-weight: 400;
 }
 .onblue:visited, .onblue:hover {
-  color: #2cccd3;
+  color: #3288bd;
   font-weight: 400;
   text-decoration: underline;
 }
@@ -165,7 +165,7 @@ a:visited, a:hover {
   font-family: 'Hind', sans-serif;
   color: #cccccc;
   background-color: transparent;
-  border: 2px solid #2cccd3;
+  border: 2px solid #3288bd;
   border-radius: 3px;
   text-transform: capitalize;
   text-align: left;
@@ -173,7 +173,7 @@ a:visited, a:hover {
 }
 .button-dark, .button-dark:visited {
   margin: 20px 10px 30px 0;
-  color: #2cccd3;
+  color: #3288bd;
   border-color: #30231d;
 
 }
@@ -211,7 +211,7 @@ a:visited, a:hover {
   font-family: 'Hind', sans-serif;
   position: absolute;
   top: 370;
-  color: #2cccd3;
+  color: #3288bd;
   background: rgba(1,1,1, 0);
   font-weight: 300;
   padding: 8px 12px;

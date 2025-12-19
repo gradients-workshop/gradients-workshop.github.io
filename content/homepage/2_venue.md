@@ -28,6 +28,10 @@ Three types of accomodations are available:
 
 The image above is an example room in the château, though each room has its own unique personality. Indoor beds are available in four different buildings distributed around the center of the property. Please note that the majority of the rooms will have more than one bed. If there is someone specific that you would like to share a room with during the stay, please indicate when registering and we will do our very best to accommodate.  
 
+Please note that Château du Feÿ is a historic building with a variety of room configurations. While many rooms have en suite facilities, some rooms have shared bathrooms and showers. We will do our best to accommodate preferences and will strive to make everyone comfortable, but ask for your understanding that this authentic castle experience differs from a standard hotel. 
+
+If you have any specific questions, please feel free to contact us directly at the email below.  
+
 ##### 2. Bed in glamping tents
 *Limited to 50 participants*  
 

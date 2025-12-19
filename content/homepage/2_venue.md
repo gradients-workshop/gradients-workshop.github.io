@@ -21,19 +21,23 @@ The workshop will be held this year as a unique all-inclusive retreat experience
 
 Three types of accomodations are available:  
 
-##### 1. Indoor rooms
-*Limited to 70 participants*  
+##### 1. Bed in indoor rooms
+*Limited to 68 participants*  
 
 ![Room](images/chateau_room.jpg)
 
-The image above is an example room in the château. Indoor beds are available in three different buildings distributed around the center of the property. Some of the rooms have more than one bed. If you would like to share a room with someone specific, please indicate when registering. 
+The image above is an example room in the château, though each room has its own unique personality. Indoor beds are available in four different buildings distributed around the center of the property. Please note that the majority of the rooms will have more than one bed. If there is someone specific that you would like to share a room with during the stay, please indicate when registering and we will do our very best to accommodate.  
 
-##### 2. Glamping tents
+Please note that Château du Feÿ is a historic building with a variety of room configurations. While many rooms have en suite facilities, some rooms have shared bathrooms and showers. We will do our best to accommodate preferences and will strive to make everyone comfortable, but ask for your understanding that this authentic castle experience differs from a standard hotel. 
+
+If you have any specific questions, please feel free to contact us directly at the email below.  
+
+##### 2. Bed in glamping tents
 *Limited to 50 participants*  
 
 ![Room](images/chateau_glamping.jpg)
 
-Several *glamping* (glamorous camping) beds are available. Each tent has four luxurious beds. If you would like to room with specific attendess, please be sure to include that information when registering. 
+Several *glamping* (glamorous camping) beds are available. Each tent has four luxurious beds. If you would like to room with someone specific, please be sure to mention them in the comments when registering and we will do our best to accomodate.  
 
 ##### 3. No accomodations
 *Limited to 80 participants*  

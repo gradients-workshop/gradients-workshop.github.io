@@ -11,13 +11,20 @@ header_menu: false
 
 ## Arrival
 
-#### By car 
-Château du Feÿ is located approximately two hours from Paris. Free parking is available on site.  
+We recommend flying into either Paris Charles de Gaulle (CDG) Airport or Paris Orly Airport. It will be possible to purchase public transport tickets at the airport station upon arrival.  
 
-#### By train
-The nearest train station is `Joigny`.  
+From **CDG**, take the RER B to `Châtelet les Halles`, then transfer to the metro line 14 to `Bercy`. Total travel to Bercy should take approximately 45 minutes.  
 
-From Paris, there are trains every hour from `Gare du Bercy` to `Joigny` for approximately 25€ (one way). The trip takes about one hour. 
+From **Orly**, take the metro line 14 to `Bercy`. Total travel to Bercy should take approximately 20 minutes.  
+
+Once you arrive at `Bercy` on the metro line 14, exit the station. The train station `Paris Bercy Bourgogne - Pays d'Auvergne` is located about a 5-minute walk from the metro exit:  
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1312.9831933595935!2d2.3798366390361485!3d48.83977984283242!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x47e672172aff3ae5%3A0xb00291886242e971!2sBercy!3m2!1d48.840257799999996!2d2.3795081!4m5!1s0x47e6721426dd6b9f%3A0xb0e3291adbfb5fbc!2sParis%20Bercy%20Bourgogne%20-%20Pays%20d&#39;Auvergne%2C%2048%20bis%20Bd%20de%20Bercy%2C%2075012%20Paris%2C%20France!3m2!1d48.83922!2d2.38279!5e0!3m2!1sen!2suk!4v1767595323446!5m2!1sen!2suk" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+#### By train from Paris
+The nearest train station to Château du Feÿ is `Joigny`.  
+
+From Paris, there are trains every hour from `Paris Bercy Bourgogne - Pays d'Auvergne` to `Joigny` for approximately 25€ (one way). The trip takes approximately one hour. 
 
 Further information regarding transportation from the Joigny train station to the venue will be made available soon.  
 
@@ -29,6 +36,9 @@ For those who won't be taking the shuttles, the Chateau is 15 minutes from the J
 
 [list taxi companies] -->
 
+#### By car 
+Château du Feÿ is located approximately two hours from Paris. Free parking is available on site.  
+
 ---  
 
 ## Departure
@@ -36,9 +46,8 @@ For those who won't be taking the shuttles, the Chateau is 15 minutes from the J
 For those organizing their own travel after the retreat, same instructions as above in reverse. 
 <!-- However, we will not be organizing shuttles from the Château.  -->
 
-#### Bordeaux
+#### Direct bus to Bordeaux
 
 We may try to organize group travel by bus to Bordeaux. More information will be made available shortly.  
 
 <!-- For those who wish to travel directly to Bordeaux after the workshop, we are organizing a charter bus. The drive will take 5-6 hours, and can be booked in advance when [registering](#registration). -->
-

@@ -4,7 +4,7 @@ weight: 15
 header_menu: true
 ---
 
-Early-bird registration closes **January 31<sup>st</sup>, 2026**  
+Early-bird registration closes at **11:59pm (CET) on January 31<sup>st</sup>, 2026**  
 Register by then for a **50€ discount**  
 
 **Final registration deadline: April 30<sup>th</sup>, 2026**  

@@ -48,6 +48,17 @@ For those organizing their own travel after the retreat, same instructions as ab
 
 #### Direct bus to Bordeaux
 
-We may try to organize group travel by bus to Bordeaux. More information will be made available shortly.  
+For those who wish to travel directly to Bordeaux after the workshop, we are organizing a charter bus. Please note that space is limited. The drive will take 5-6 hours, and can be booked in advance when [registering](#registration), or booked directly bellow:  
 
-<!-- For those who wish to travel directly to Bordeaux after the workshop, we are organizing a charter bus. The drive will take 5-6 hours, and can be booked in advance when [registering](#registration). -->
+<div class="tt-widget">
+    <div class="tt-widget-fallback">
+        <p>
+            <a href="https://www.tickettailor.com/checkout/new-session/store/69134/chk/7ce7?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true&show_event_filter=false" target="_blank">Click here to buy bus tickets</a>
+            <br />
+            <small>
+                <a href="https://www.tickettailor.com?rf=wdg_279442" class="tt-widget-powered">Sell tickets online with Ticket Tailor</a>
+            </small>
+        </p>
+    </div>
+    <script src="https://cdn.tickettailor.com/js/widgets/min/widget.js" data-url="https://www.tickettailor.com/checkout/new-session/store/69134/chk/7ce7?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true&show_event_filter=false" data-type="inline" data-inline-minimal="true" data-inline-show-logo="false" data-inline-bg-fill="true" data-inline-inherit-ref-from-url-param="" data-inline-ref="website_widget"></script>
+</div>

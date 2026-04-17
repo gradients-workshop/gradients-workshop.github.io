@@ -26,15 +26,18 @@ The nearest train station to Château du Feÿ is `Joigny`.
 
 From Paris, there are trains every hour from `Paris Bercy Bourgogne - Pays d'Auvergne` to `Joigny` for approximately 25€ (one way). The trip takes approximately one hour. 
 
-Further information regarding transportation from the Joigny train station to the venue will be made available soon.  
+Further information regarding transportation from the Joigny train station to the Château will be made available soon. We are working on providing regular shuttle taxis from around 1pm on June 9th, and we will provide more details with specific pickup times in early-May.  
 
 <!-- For those arriving at XXX, we will have shuttles to take groups to the Château on Tuesday, June 9th, at the following times:
 
 [insert table with shuttle times]
 
-For those who won't be taking the shuttles, the Chateau is 15 minutes from the Joigny train station by **taxi**. We recommend booking a taxi upon arrival, as they won't be waiting at the station. Following are recommended taxi companies in the area, and the cost should be approximately 25€:
+-->
 
-[list taxi companies] -->
+For those who will be arriving at different times and need to arrange their own transportation, the Chateau is a 15-minute drive from the Joigny train station by **taxi**. We recommend booking a taxi upon arrival, as they won't be waiting at the station. Following are recommended local taxi companies that can be contacted on WhatsApp, and the cost should be approximately 25-30€:  
+- Salim Karimi: +33 6 50 64 25 30  
+- A&H Taxis (Hassan): +33 6 79 61 50 32  
+- Taxi Nouredine: +33 6 64 10 71 51  
 
 #### By car 
 Château du Feÿ is located approximately two hours from Paris. Free parking is available on site.  
@@ -43,8 +46,7 @@ Château du Feÿ is located approximately two hours from Paris. Free parking is 
 
 ## Departure
 
-For those organizing their own travel after the retreat, same instructions as above in reverse. 
-<!-- However, we will not be organizing shuttles from the Château.  -->
+For those organizing their own travel after the retreat, same instructions as above in reverse. However, we will not be organizing shuttles to the train station from the Château. If you will need to depart from the Joigny train station after the workshop, the taxis companies above are all good options.  
 
 #### Direct bus to Bordeaux
 

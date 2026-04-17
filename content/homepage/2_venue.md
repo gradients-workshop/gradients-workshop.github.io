@@ -38,7 +38,7 @@ If you have any specific questions, please feel free to contact us directly at t
 *Limited to 40 participants*  
 
 ![Glamping1](images/chateau_glamping.jpg)  
-![Glamping2](images/chateau_glamping_2.jpg)   
+![Glamping2](images/chateau_glamping_2.png)   
 
 Several *glamping* (glamorous camping) beds are available. Each tent has four luxurious beds. If you would like to room with someone specific, please be sure to mention them in the comments when registering and we will do our best to accomodate. For more images of the glamping setup, here is a link with more {{<newtab text="glamping setup photos." href="downloads/Glamping.pdf">}}  
 

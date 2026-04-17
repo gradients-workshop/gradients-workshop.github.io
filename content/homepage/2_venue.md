@@ -47,7 +47,7 @@ Several *glamping* (glamorous camping) beds are available. Each tent has four lu
 
 You are welcome to camp onsite or to commute from a hotel in the area.  
 
-This is also the option to select during registration is you will be <ins>sharing an indoor bed</ins> with another attendee.   
+This is also the option to select during registration if you will be <ins>sharing an indoor bed</ins> with another attendee.   
   
 ---
 

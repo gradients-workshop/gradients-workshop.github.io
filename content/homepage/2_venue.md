@@ -24,7 +24,7 @@ Please note that in order to accomodate attendees in the limited space, indoor r
 Three types of accomodations are available:  
 
 ##### 1. Bed in indoor rooms
-*Limited to 60 participants*  
+*Limited to 60 participants, so if sold out, please consider the lovely glamping option below...*
 
 ![Room](images/chateau_room.jpg)
 
@@ -37,9 +37,10 @@ If you have any specific questions, please feel free to contact us directly at t
 ##### 2. Bed in glamping tents
 *Limited to 40 participants*  
 
-![Room](images/chateau_glamping.jpg)
+![Glamping1](images/chateau_glamping.jpg)  
+![Glamping2](images/chateau_glamping_2.jpg)   
 
-Several *glamping* (glamorous camping) beds are available. Each tent has four luxurious beds. If you would like to room with someone specific, please be sure to mention them in the comments when registering and we will do our best to accomodate.  
+Several *glamping* (glamorous camping) beds are available. Each tent has four luxurious beds. If you would like to room with someone specific, please be sure to mention them in the comments when registering and we will do our best to accomodate. For more images of the glamping setup, here is a link with more {{<newtab text="glamping setup photos." href="downloads/Glamping.pdf">}}  
 
 ##### 3. No accomodations
 *Limited to 50 participants*  

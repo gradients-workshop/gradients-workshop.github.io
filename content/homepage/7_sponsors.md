@@ -23,6 +23,7 @@ Valerie Sydnor (University of Pittsburgh)
 Sofie Valk (Max Planck Inst for Human Cognitive and Brain Sciences)  
 Johan van der Meer (Queensland University of Technology)  
 Tamara Vanderwal (University of British Columbia)  
+Xi-Nian Zuo (Beijing Normal University)  
 
 ---
 

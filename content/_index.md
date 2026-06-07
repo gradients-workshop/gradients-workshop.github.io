@@ -10,7 +10,7 @@ header_use_video: false
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Gradients in Brain Organization"
-header_subheadline: "Workshop Retreat at Château du Feÿ</br>June 9–11, 2026</br><kbd>Registration closes April 30<sup>th</sup></kbd>"
+header_subheadline: "Workshop Retreat at Château du Feÿ</br>June 9–11, 2026</br><kbd>Schedule & Info: <a href='https://gradients2026.netlify.app/'>gradients2026.netlify.app</a></kbd>"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

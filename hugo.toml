@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 # The browser tab name
-title = 'Gradients 2026'
+title = 'Gradients 2027'
 theme = 'hugo-scroll'
 
 
@@ -21,7 +21,7 @@ enableEmoji = true
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and https://gohugo.io/templates/internal#open-graph.
     # NOT the actual header background image, go to _index.md instead
-    images = ["images/cover-image.jpg"]
+    # images = ["images/cover-image.jpg"]
 
     # When set true, it creates a visual guard (partially transparent rounded box), preventing non-ideal background images from interfering with title/description headings
     # Ideal images are homogenous around the centre and contrasting to the text.
@@ -35,7 +35,7 @@ enableEmoji = true
     title = "Gradients in Brain Organization"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "A workshop on gradients in brain organzation in June 2026"
+    description = "Save the date: Gradients in Brain Organization workshop, Montréal, June 23–24, 2027"
 
     # Show a menu of languages available
     language_menu = false
